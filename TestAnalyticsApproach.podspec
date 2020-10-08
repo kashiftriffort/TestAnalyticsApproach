@@ -1,9 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name         = 'TestAnalyticsApproach'
-  spec.version      = '0.1.0'
+  spec.version      = '0.3.0'
   spec.authors      = {
-    'Kashif Jilani' => 'kashif.triffort@gmail.com',
-    'Another Kashif Jilani' => 'kashif.triffort@gmail.com'
+    'Kashif Jilani' => 'kashif.triffort@gmail.com'
   }
   spec.license      = {
     :type => 'MIT',
